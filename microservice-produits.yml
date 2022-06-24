@@ -1,7 +1,5 @@
 #Spring
 spring:
-  application:
-    name: 'microservice-produits'
   jpa:
     show-sql: 'true'
     hibernate:

@@ -1,3 +1,6 @@
+server:
+  port: 9001
+
 #Spring
 spring:
   jpa:
